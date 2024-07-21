@@ -1,4 +1,4 @@
-![python](https://github.com/user-attachments/assets/fb29a6f0-ad69-40d0-97de-fbe67c22dd10)#### :star2: Hola, mi nombre es Juan
+#### :star2: Hola, mi nombre es Juan
 
 soy un estudiante apasionado por la programación. Desde que descubrí el mundo del código, he estado fascinado por la capacidad de crear y resolver
 probremas a traves de la tecnología :heart:
