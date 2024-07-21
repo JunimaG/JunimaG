@@ -1,7 +1,7 @@
 # 💫 About Me:
 ¡Hola, bienvenidos a mi perfil de GitHub!
 
-Mi nombre es Juan y soy un estudiante apasionado por la programación. Desde que descubrí el mundo del código, he estado fascinado por la capacidad de crear y resolver problemas a través de la tecnología. 
+Soy un estudiante apasionado por la programación. Desde que descubrí el mundo del código, he estado fascinado por la capacidad de crear y resolver problemas a través de la tecnología. 
 Poseo conocimientos básicos en Python, C y planeo aprender Java. 
 
 🎓Actualmente estudio: 
