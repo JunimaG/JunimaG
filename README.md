@@ -5,9 +5,8 @@ Mi nombre es Juan y soy un estudiante apasionado por la programación. Desde que
 Poseo conocimientos básicos en Python, C y planeo aprender Java. 
 
 🎓Actualmente estudio: 
-
--📡Lic. Cs Físicas en la UBA 
--⚡In. eléctrica en la UNAHUR. 
+- 📡 Lic. Cs Físicas en la UBA 
+- ⚡ In. eléctrica en la UNAHUR
 
 La programación me ha permitido canalizar esa pasión en proyectos que no solo son funcionales, sino también impactantes. Estoy constantemente aprendiendo y explorando nuevas tecnologías para mejorar mis habilidades. 
 Estoy emocionado por las oportunidades que el futuro me depara y estoy comprometido a utilizar mis conocimientos para hacer una diferencia en el mundo de la ciencia y la tecnología.
