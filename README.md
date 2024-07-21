@@ -1,5 +1,15 @@
 # 💫 About Me:
-Hola, mi nombre es Juan y soy un estudiante apasionado <br>por la programación. Desde que descubrí el mundo del <br>código, he estado fascinado por la capacidad de crear y<br>resolver problemas a través de la tecnología.<br>Actualmente estudio la Lic. Cs Físicas en la UBA e <br>In. eléctrica en la UNAHUR. <br>La programación me ha permitido canalizar esa pasión en <br>proyectos que no solo son funcionales, sino también <br>impactantes. Estoy constantemente aprendiendo y <br>explorando nuevas tecnologías para mejorar mis <br>habilidades. Estoy emocionado por las oportunidades que <br>el futuro me depara y estoy comprometido a utilizar mis <br>conocimientos para hacer una diferencia en el mundo de <br>la ciencia y la tecnología.
+¡Hola, bienvenidos a mi perfil de GitHub!
+
+Mi nombre es Juan y soy un estudiante apasionado por la programación. Desde que descubrí el mundo del código, he estado fascinado por la capacidad de crear y resolver problemas a través de la tecnología. 
+Poseo conocimientos básicos en Python, C y planeo aprender Java. 
+
+🎓Actualmente estudio: 
+-📡Lic. Cs Físicas en la UBA 
+-⚡In. eléctrica en la UNAHUR. 
+
+La programación me ha permitido canalizar esa pasión en proyectos que no solo son funcionales, sino también impactantes. Estoy constantemente aprendiendo y explorando nuevas tecnologías para mejorar mis habilidades. 
+Estoy emocionado por las oportunidades que el futuro me depara y estoy comprometido a utilizar mis conocimientos para hacer una diferencia en el mundo de la ciencia y la tecnología.
 
 
 ## 🌐 Socials:
