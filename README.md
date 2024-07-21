@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 📎 About Me:
 ¡Hola, bienvenidos a mi perfil de GitHub!
 
 My nombre es Juan y soy un estudiante apasionado por la programación. Desde que descubrí el mundo del código, he estado fascinado por la capacidad de crear y resolver problemas a través de la tecnología. 
@@ -18,7 +18,7 @@ Estoy emocionado por las oportunidades que el futuro me depara y estoy compromet
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JunimaG&theme=calm_pink&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JunimaG&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### 🎯 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
