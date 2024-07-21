@@ -11,13 +11,12 @@ Actualmente estudio :books: :
 
 ### Habilidades Técnicas
 
-<!-- Languages -->
   </br>
   <h3>Languages</h3>
   <img
     src="file:///C:/Users/fuang/Downloads/python.svg"
     width="60px"
-    alt="Java">
+    alt="Python">
     &nbsp;&nbsp;&nbsp;&nbsp;
 
 
