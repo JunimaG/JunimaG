@@ -1,7 +1,8 @@
 
 ![GitHub ](https://github.com/user-attachments/assets/24ea7042-42e4-4484-9a7f-aa916cbf1897)
 
-# 📎 About Me:
+<img src="<img src="https://github.com/user-attachments/assets/a52246cb-d6c6-435e-b89c-576913a196ff" alt="Icono" class="icono">
+#  About Me:
 ¡Hola, bienvenidos a mi perfil de GitHub!
 
 My nombre es Juan y soy un estudiante apasionado por la programación. Desde que descubrí el mundo del código, he estado fascinado por la capacidad de crear y resolver problemas a través de la tecnología. 
