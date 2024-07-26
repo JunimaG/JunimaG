@@ -4,7 +4,6 @@
   <img src="https://github.com/user-attachments/assets/24ea7042-42e4-4484-9a7f-aa916cbf1897" alt="Baner para GitHub" width="800" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
 </div>
 
-
 Mi nombre es Juan y soy un estudiante apasionado por la programación. Desde que descubrí el mundo del código, he estado fascinado por la capacidad de crear y resolver problemas a través de la tecnología. Poseo conocimientos básicos en Python y C, y planeo aprender Java.
 Actualmente, estudio Licenciatura en Ciencias Físicas en la Universidad de Buenos Aires (UBA) e Ingeniería Eléctrica en la Universidad Nacional de Hurlingham (UNAHUR). La programación me ha permitido canalizar esa pasión en proyectos que no solo son funcionales, sino también impactantes. Estoy constantemente aprendiendo y explorando nuevas tecnologías para mejorar mis habilidades. Estoy emocionado por las oportunidades que el futuro me depara y estoy comprometido a utilizar mis conocimientos para hacer una diferencia en el mundo de la ciencia y la tecnología.
 
