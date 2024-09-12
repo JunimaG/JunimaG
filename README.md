@@ -9,28 +9,24 @@ My name is Juan, and I am a student passionate about programming. Since discover
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 💡 Skills
+#  
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
-
-
-## Herramientas y Tecnologías
+## 💡 Tools and Technologies
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" style="border-radius:50%;"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="border-radius:50%;"/>
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" style="border-radius:50%;"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="border-radius:50%;"/>
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" style="border-radius:50%;"/>
-  <img src="https://img.icons8.com/color/48/000000/windows-11.png" alt="Windows 11" style="border-radius:50%;"/>
-  <img src="https://img.icons8.com/color/48/000000/notion.png" alt="Notion" style="border-radius:50%;"/>
-  <img src="https://img.icons8.com/color/48/000000/google-workspace.png" alt="Google Workspace" style="border-radius:50%;"/>
-  <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" style="border-radius:50%;"/>
-  <img src="https://img.icons8.com/color/48/000000/chatbot.png" alt="Chat AI" style="border-radius:50%;"/>
-  <img src="https://img.icons8.com/color/48/000000/autocad.png" alt="AutoCAD" style="border-radius:50%;"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 11"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+  <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/AutoCAD-EE3124?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD"/>
 </p>
+
 
 
 
