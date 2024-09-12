@@ -9,8 +9,6 @@ My name is Juan, and I am a student passionate about programming. Since discover
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#  
-
 ## 💡 Tools and Technologies
 
 <p align="center">
@@ -29,58 +27,6 @@ My name is Juan, and I am a student passionate about programming. Since discover
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Herramientas y Tecnologías
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="Visual Studio Code" />
-      <br>Visual Studio Code
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
-      <br>C
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="48" height="48" alt="Windows 11" />
-      <br>Windows 11
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="48" height="48" alt="Notion" />
-      <br>Notion
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" height="48" alt="Google" />
-      <br>Google
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" />
-      <br>Canva
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chatgpt/chatgpt-original.svg" width="48" height="48" alt="Chat GPT" />
-      <br>Chat GPT
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/autocad/autocad-original.svg" width="48" height="48" alt="AutoCAD" />
-      <br>AutoCAD
-    </td>
-  </tr>
-</table>
 
 
 # 📑 Random development quote
