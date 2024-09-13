@@ -28,7 +28,7 @@ My name is Juan, and I am a student passionate about programming. Since discover
 
 
 
-## 📑 Random development quote
+### 📑 Random development quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
