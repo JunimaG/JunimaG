@@ -9,7 +9,7 @@ My name is Juan, and I am a student passionate about programming. Since discover
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 💡 Tools and Technologies
+💡 Tools and Technologies
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="Visual Studio Code" />
