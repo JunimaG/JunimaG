@@ -3,13 +3,13 @@
   <img src="https://github.com/user-attachments/assets/2f0effda-0e79-411c-8d66-b0131c8b1971" alt="Baner para GitHub" width="800" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
 </div>
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------
 
-### Presentation
+### 👦 Presentation
 
 My name is Juan, and I am a student passionate about programming. Since discovering the world of code, I have been fascinated by the ability to create and solve problems through technology. I have basic knowledge of Python and C, and I plan to learn Java. Currently, I am studying for a Bachelor’s degree in Physics at the University of Buenos Aires (UBA) and Electrical Engineering at the National University of Hurlingham (UNAHUR). Programming has allowed me to channel my passion into functional and impactful projects. I am constantly learning and exploring new technologies to improve my skills. I am excited about the opportunities the future holds and committed to using my knowledge to make a difference in the world of science and technology.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------
 
 ### 💡 Tools and Technologies
 
@@ -26,13 +26,14 @@ My name is Juan, and I am a student passionate about programming. Since discover
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="48" height="48" alt="Blender" />
 </p>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------
 
 ### 📑 Random development quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
+----------------------------------------------------------------
+
 [![](https://visitcount.itsvg.in/api?id=JunimaG&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
