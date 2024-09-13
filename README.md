@@ -22,7 +22,6 @@ My name is Juan, and I am a student passionate about programming. Since discover
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" height="48" alt="Google" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="48" height="48" alt="Blender" />
-  <img src="https://icon-icons.com/icons2/2107/PNG/512/autodesk_icon_130940.png" width="48" height="48" alt="Autodesk" />
 </p>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
