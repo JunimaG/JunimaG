@@ -5,6 +5,8 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+### Presentation
+
 My name is Juan, and I am a student passionate about programming. Since discovering the world of code, I have been fascinated by the ability to create and solve problems through technology. I have basic knowledge of Python and C, and I plan to learn Java. Currently, I am studying for a Bachelor’s degree in Physics at the University of Buenos Aires (UBA) and Electrical Engineering at the National University of Hurlingham (UNAHUR). Programming has allowed me to channel my passion into functional and impactful projects. I am constantly learning and exploring new technologies to improve my skills. I am excited about the opportunities the future holds and committed to using my knowledge to make a difference in the world of science and technology.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -26,9 +28,8 @@ My name is Juan, and I am a student passionate about programming. Since discover
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-
 ### 📑 Random development quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
