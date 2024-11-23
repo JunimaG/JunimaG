@@ -5,34 +5,35 @@
 
 -----------------------------------------------------------------
 
-### 👦 Presentation
+### ✨ Presentation 
 
-My name is Juan, and I am a student passionate about programming. Since discovering the world of code, I have been fascinated by the ability to create and solve problems through technology. I have basic knowledge of Python and C, and I plan to learn Java. Currently, I am studying for a Bachelor’s degree in Physics at the University of Buenos Aires (UBA) and Electrical Engineering at the National University of Hurlingham (UNAHUR). Programming has allowed me to channel my passion into functional and impactful projects. I am constantly learning and exploring new technologies to improve my skills. I am excited about the opportunities the future holds and committed to using my knowledge to make a difference in the world of science and technology.
+< About Me >
 
----------------------------------------------------------------
+I am a student passionate about programming. Since discovering the world of code, I have been fascinated by the ability to create and solve problems through technology. I have basic knowledge of Python and C, and I plan to learn Java.
 
-### 💡 Tools and Technologies
+🎓 Currently, I am studying: 
+> Bachelor's degree in Physics at the University of Buenos Aires (UBA) 
+  ![dispersion](https://github.com/user-attachments/assets/88446025-7eb2-4e15-9465-9281215de30e)
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="Visual Studio Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="48" height="48" alt="Ubuntu" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="48" height="48" alt="Windows 11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="48" height="48" alt="Notion" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" height="48" alt="Google" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="48" height="48" alt="Blender" />
-</p>
+> Electrical Engineering at the National University of Hurlingham (UNAHUR)
+ ![circuito](https://github.com/user-attachments/assets/f6c52e23-c1bd-47ac-b2b7-808d636d9f96)
+
 
 ---------------------------------------------------------------
 
-### 📑 Random development quote
+### ⚙️ Tools and technologies
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  ~/ Here are some of the tools and technologies I use:
 
-----------------------------------------------------------------
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=python,pycharm,javascript,c,java" /><br>
+    <img src="https://skillicons.dev/icons?i=notion,discord,autocad" />
+    <img src="https://skillicons.dev/icons?i=ubuntu,arch,windows" />
+</div>
+
+---------------------------------------------------------------
 
 [![](https://visitcount.itsvg.in/api?id=JunimaG&icon=0&color=0)](https://visitcount.itsvg.in)
 
