@@ -38,6 +38,17 @@ I am a student passionate about programming. Since discovering the world of code
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
 </div>
 
+-------------------------------------------------------------------
+
+<div align="center">
+  <h2> 🕹️ Game 🎮</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+
 [![](https://visitcount.itsvg.in/api?id=JunimaG&label=Visitas&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
