@@ -29,7 +29,7 @@ I am a student passionate about programming. Since discovering the world of code
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=python,pycharm,c,java" /><br>
+    <img src="https://skillicons.dev/icons?i=python,c" /><br>
     <img src="https://skillicons.dev/icons?i=linkedin,notion,discord,autocad" />
     <img src="https://skillicons.dev/icons?i=ubuntu,arch,windows" />
 </div>
