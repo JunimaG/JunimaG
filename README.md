@@ -18,7 +18,8 @@ Bienvenido a mi repositorio personal. Este espacio funciona como mi carta de pre
 - **C++**  
 - **Arduino**  
 - **Markdown**  
-- **GitHub**  
+- **GitHub**
+- **LinkedIn**
 
 ---
 
