@@ -42,6 +42,5 @@ Bienvenido a mi repositorio personal. Este espacio funciona como mi carta de pre
 ## ⭐ Gracias por visitar mi perfil
 Si te interesa lo que hago, ¡no dudes en seguirme o ver mis repositorios!
 
-## 📑 Playlist completa
-[Ver la lista en YouTube](https://www.youtube.com/playlist?list=LL)
+
 
