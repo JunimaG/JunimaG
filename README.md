@@ -41,3 +41,5 @@ Bienvenido a mi repositorio personal. Este espacio funciona como mi carta de pre
 
 ## ⭐ Gracias por visitar mi perfil
 Si te interesa lo que hago, ¡no dudes en seguirme o ver mis repositorios!
+
+![Animalito](https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg)
